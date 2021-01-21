@@ -1,0 +1,14 @@
+$defaultLinkColor: red;
+
+h1 {
+	color: $defaultLinkColor;
+}
+
+ul {
+	li {
+		a {
+			text-decoration: none;
+			&:hover {text-decoration: underline;}
+		}
+	}
+}

@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+/*# sourceMappingURL=test.css.map */
